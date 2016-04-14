@@ -1,0 +1,12 @@
+Hammonds AS, Bristow CA, Fisher WW, Weiszmann R, Wu S, Hartenstein V, Kellis
+M, Yu B, Frise E, Celniker SE. Spatial expression of transcription factors in
+Drosophila embryonic organ development. Genome Biol. 2013 Dec 20;14(12):R140.
+doi: 10.1186/gb-2013-14-12-r140. PubMed PMID: 24359758; PubMed Central PMCID:
+PMC4053779.
+
+13059_2013_3201_MOESM2_ESM.csv:
+    This file is a list of 708 TFs and their associted DNA binding domains. It
+    is a CSV version of [Table S2](https://static-content.springer.com/esm/art%3A10.1186%2Fgb-2013-14-12-r140/MediaObjects/13059_2013_3201_MOESM2_ESM.xls).
+
+geneList:
+    This file contains the full list of 708 FBgns from 13059_2013_3201_MOESM2_ESM.csv.

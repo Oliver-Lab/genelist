@@ -1,0 +1,12 @@
+Rhee DY, Cho DY, Zhai B, Slattery M, Ma L, Mintseris J, Wong CY, White KP,
+Celniker SE, Przytycka TM, Gygi SP, Obar RA, Artavanis-Tsakonas S. Transcription 
+factor networks in Drosophila melanogaster. Cell Rep. 2014 Sep 25;8(6):2031-43.
+doi: 10.1016/j.celrep.2014.08.038. Epub 2014 Sep 18. PubMed PMID: 25242320;
+PubMed Central PMCID: PMC4403667.
+
+genesList:
+    This file contains a list of transcription factors, putative transcription
+    factors, chromatin-related proteins, and components of the transcriptional
+    machinery from [Table S1](http://www.cell.com/cms/attachment/2020605924/2040322389/mmc1.xlsx).
+    They state that there are 996 genes in this list, but in realaity there are
+    1001.
